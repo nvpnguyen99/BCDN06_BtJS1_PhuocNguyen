@@ -12,7 +12,7 @@
  *          tổng 2 ký số = số hàng chục + số hàng đơn vị
  *          sum = ten + unit
  * Khối 3: Output
- *          tổng 2 ký số của số vừa nhập
+ *          tổng 2 ký số của số vừa nhập 
  *          sum
  */
 
